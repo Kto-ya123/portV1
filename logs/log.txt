@@ -1,0 +1,140 @@
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 9 moored to the pier 2
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 3 moored to the pier 0
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 8 moored to the pier 3
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 0 moored to the pier 1
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 8 is going to upload 3 containers to port storage.
+2016-03-17 14:15:55 threads.ship.Ship [WARN] by.bsuir.threads.exception.ShipException: Invalid action in ship 9
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 3 is going to upload 2 containers to port storage.
+2016-03-17 14:15:55 threads.ship.Ship [INFO] Ship 0 want to upload 3 on other ship.
+2016-03-17 14:15:55 threads.ship.Ship [INFO] Port storage  load containers from ship 3
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 6 moored to the pier 2
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 9 moved away from the pier 2
+2016-03-17 14:15:55 threads.ship.Ship [INFO] Port storage  load containers from ship 8
+2016-03-17 14:15:55 threads.ship.Ship [WARN] by.bsuir.threads.exception.ShipException: Invalid action in ship 6
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 7 moored to the pier 0
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 3 moved away from the pier 0
+2016-03-17 14:15:55 threads.birth.Berth [WARN] Ship 0 doesn't get ship for uploading
+2016-03-17 14:15:55 threads.ship.Ship [INFO] Ship 7 want to upload 4 on other ship.
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 2 moored to the pier 2
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 6 moved away from the pier 2
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 4 moored to the pier 3
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 8 moved away from the pier 3
+2016-03-17 14:15:55 threads.ship.Ship [INFO] Ship 4 want to upload 1 on other ship.
+2016-03-17 14:15:55 threads.ship.Ship [WARN] by.bsuir.threads.exception.ShipException: Invalid action in ship 2
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 2 moved away from the pier 2
+2016-03-17 14:15:55 threads.birth.Berth [WARN] Ship 7 doesn't get ship for uploading
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 7 is going to upload 4 containers to port storage.
+2016-03-17 14:15:55 threads.birth.Berth [WARN] Ship 4 doesn't get ship for uploading
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 0 is going to upload 3 containers to port storage.
+2016-03-17 14:15:55 threads.ship.Ship [INFO] Port storage  load containers from ship 0
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 4 is going to upload 1 containers to port storage.
+2016-03-17 14:15:55 threads.ship.Ship [INFO] Port storage  load containers from ship 7
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 5 moored to the pier 2
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 7 moved away from the pier 0
+2016-03-17 14:15:55 threads.ship.Ship [INFO] Port storage  load containers from ship 4
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 1 moored to the pier 1
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 0 moved away from the pier 1
+2016-03-17 14:15:55 threads.ship.Ship [WARN] by.bsuir.threads.exception.ShipException: Invalid action in ship 1
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 4 moved away from the pier 3
+2016-03-17 14:15:55 threads.ship.Ship [INFO] Ship 5 want to upload 2 on other ship.
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 1 moved away from the pier 1
+2016-03-17 14:15:55 threads.birth.Berth [WARN] Ship 5 doesn't get ship for uploading
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 5 is going to upload 2 containers to port storage.
+2016-03-17 14:15:55 threads.ship.Ship [INFO] Port storage  load containers from ship 5
+2016-03-17 14:15:55 threads.ship.Ship [INFO] The ship 5 moved away from the pier 2
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 9 moored to the pier 0
+2016-03-17 14:16:00 threads.ship.Ship [WARN] by.bsuir.threads.exception.ShipException: Invalid action in ship 9
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 9 moved away from the pier 0
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 3 moored to the pier 3
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 3 is going to upload 1 containers to port storage.
+2016-03-17 14:16:00 threads.ship.Ship [INFO] Port storage  load containers from ship 3
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 3 moved away from the pier 3
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 6 moored to the pier 1
+2016-03-17 14:16:00 threads.ship.Ship [WARN] by.bsuir.threads.exception.ShipException: Invalid action in ship 6
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 6 moved away from the pier 1
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 8 moored to the pier 2
+2016-03-17 14:16:00 threads.ship.Ship [INFO] Ship 8 want to load 1 from other ship.
+2016-03-17 14:16:00 threads.birth.Berth [WARN] Ship 8 doesn't get ship for loading
+2016-03-17 14:16:00 threads.ship.Ship [INFO] Ship 8 want to load 1 from port.
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 2 moored to the pier 0
+2016-03-17 14:16:00 threads.ship.Ship [WARN] Port haven't containers to load ship 8
+2016-03-17 14:16:00 threads.ship.Ship [WARN] by.bsuir.threads.exception.ShipException: Invalid action in ship 2
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 8 moved away from the pier 2
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 2 moved away from the pier 0
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 7 moored to the pier 3
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 7 want to load 1 containers from port storage.
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 7 loaded 1 containers from port.
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 0 moored to the pier 2
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 4 moored to the pier 1
+2016-03-17 14:16:00 threads.ship.Ship [INFO] Ship 0 want to upload 1 on other ship.
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 7 moved away from the pier 3
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 1 moored to the pier 0
+2016-03-17 14:16:00 threads.birth.Berth [WARN] Ship 0 doesn't get ship for uploading
+2016-03-17 14:16:00 threads.ship.Ship [INFO] Ship 4 want to upload 1 on other ship.
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 0 is going to upload 1 containers to port storage.
+2016-03-17 14:16:00 threads.ship.Ship [INFO] Ship 1 want to upload 1 on other ship.
+2016-03-17 14:16:00 threads.ship.Ship [INFO] Port storage  load containers from ship 0
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 5 moored to the pier 3
+2016-03-17 14:16:00 threads.birth.Berth [WARN] Ship 4 doesn't get ship for uploading
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 4 is going to upload 1 containers to port storage.
+2016-03-17 14:16:00 threads.ship.Ship [INFO] Port storage  load containers from ship 4
+2016-03-17 14:16:00 threads.ship.Ship [INFO] Ship 5 want to load 1 from other ship.
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 0 moved away from the pier 2
+2016-03-17 14:16:00 threads.birth.Berth [WARN] Ship 5 doesn't get ship for loading
+2016-03-17 14:16:00 threads.ship.Ship [INFO] Ship 5 want to load 1 from port.
+2016-03-17 14:16:00 threads.birth.Berth [WARN] Ship 1 doesn't get ship for uploading
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 4 moved away from the pier 1
+2016-03-17 14:16:00 threads.ship.Ship [WARN] Port haven't containers to load ship 5
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 1 is going to upload 1 containers to port storage.
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 5 moved away from the pier 3
+2016-03-17 14:16:00 threads.ship.Ship [INFO] Port storage  load containers from ship 1
+2016-03-17 14:16:00 threads.ship.Ship [INFO] The ship 1 moved away from the pier 0
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 9 moored to the pier 2
+2016-03-17 14:16:05 threads.ship.Ship [INFO] Ship 9 want to upload 4 on other ship.
+2016-03-17 14:16:05 threads.birth.Berth [WARN] Ship 9 doesn't get ship for uploading
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 6 moored to the pier 3
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 9 is going to upload 4 containers to port storage.
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 3 moored to the pier 1
+2016-03-17 14:16:05 threads.ship.Ship [INFO] Port storage  load containers from ship 9
+2016-03-17 14:16:05 threads.ship.Ship [INFO] Ship 6 want to upload 1 on other ship.
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 9 moved away from the pier 2
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 3 want to load 1 containers from port storage.
+2016-03-17 14:16:05 threads.birth.Berth [WARN] Ship 6 doesn't get ship for uploading
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 6 is going to upload 1 containers to port storage.
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 3 loaded 1 containers from port.
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 8 moored to the pier 0
+2016-03-17 14:16:05 threads.ship.Ship [INFO] Port storage  load containers from ship 6
+2016-03-17 14:16:05 threads.ship.Ship [INFO] Ship 8 want to load 1 from other ship.
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 6 moved away from the pier 3
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 3 moved away from the pier 1
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 2 moored to the pier 2
+2016-03-17 14:16:05 threads.birth.Berth [WARN] Ship 8 doesn't get ship for loading
+2016-03-17 14:16:05 threads.ship.Ship [INFO] Ship 8 want to load 1 from port.
+2016-03-17 14:16:05 threads.ship.Ship [WARN] by.bsuir.threads.exception.ShipException: Invalid action in ship 2
+2016-03-17 14:16:05 threads.ship.Ship [WARN] Port haven't containers to load ship 8
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 2 moved away from the pier 2
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 8 moved away from the pier 0
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 7 moored to the pier 1
+2016-03-17 14:16:05 threads.ship.Ship [INFO] Ship 7 want to load 1 from other ship.
+2016-03-17 14:16:05 threads.birth.Berth [WARN] Ship 7 doesn't get ship for loading
+2016-03-17 14:16:05 threads.ship.Ship [INFO] Ship 7 want to load 1 from port.
+2016-03-17 14:16:05 threads.ship.Ship [WARN] Port haven't containers to load ship 7
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 7 moved away from the pier 1
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 0 moored to the pier 3
+2016-03-17 14:16:05 threads.ship.Ship [INFO] Ship 0 want to upload 1 on other ship.
+2016-03-17 14:16:05 threads.birth.Berth [WARN] Ship 0 doesn't get ship for uploading
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 0 is going to upload 1 containers to port storage.
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 4 moored to the pier 2
+2016-03-17 14:16:05 threads.ship.Ship [INFO] Port storage  load containers from ship 0
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 5 moored to the pier 0
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 4 want to load 1 containers from port storage.
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 5 is going to upload 2 containers to port storage.
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 0 moved away from the pier 3
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 1 moored to the pier 1
+2016-03-17 14:16:05 threads.ship.Ship [INFO] Port storage  load containers from ship 5
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 4 loaded 1 containers from port.
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 5 moved away from the pier 0
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 1 want to load 1 containers from port storage.
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 4 moved away from the pier 2
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 1 loaded 1 containers from port.
+2016-03-17 14:16:05 threads.ship.Ship [INFO] The ship 1 moved away from the pier 1
