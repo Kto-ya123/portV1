@@ -1,8 +1,8 @@
-package by.bsuir.threads.initialization;
+package threads.initialization;
 
-import by.bsuir.threads.port.Port;
-import by.bsuir.threads.ship.Ship;
-import by.bsuir.threads.storage.Container;
+import threads.port.Port;
+import threads.ship.Ship;
+import threads.storage.Container;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -27,6 +27,7 @@ public class Initializer {
             ships.add(ship);
 
         }
+
         return ships;
     }
 

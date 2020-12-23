@@ -1,17 +1,16 @@
-package by.bsuir.threads.ship;
+package threads.ship;
 
-import by.bsuir.threads.action.ShipAction;
-import by.bsuir.threads.birth.Berth;
-import by.bsuir.threads.exception.ShipException;
-import by.bsuir.threads.port.Port;
-import by.bsuir.threads.exception.PortException;
-import by.bsuir.threads.storage.Container;
-import by.bsuir.threads.storage.ShipStorage;
 import org.apache.log4j.Logger;
+import threads.action.ShipAction;
+import threads.birth.Berth;
+import threads.exception.PortException;
+import threads.exception.ShipException;
+import threads.port.Port;
+import threads.storage.Container;
+import threads.storage.ShipStorage;
 
 import java.util.List;
 import java.util.Random;
-import java.util.concurrent.TimeUnit;
 
 
 public class Ship extends Thread {
@@ -26,8 +25,8 @@ public class Ship extends Thread {
 
     public Ship(Integer id, List<Container> containers, Integer priority, Integer importance) {
         this.id = id;
-        this.importance = importance;
         this.setPriority(priority);
+        this.importance = importance;
         this.storage = new ShipStorage(SIZE_SHIP_STORAGE, id);
         this.storage.setContainers(containers);
     }
@@ -53,7 +52,7 @@ public class Ship extends Thread {
 
     private void swim() {
         try {
-            Thread.sleep(5000 - importance);
+            Thread.sleep(3000 - importance);
             if(port.isInMulctShip(this)){
                 Thread.sleep(5000);
             }
@@ -79,7 +78,7 @@ public class Ship extends Thread {
             } else {
                 logger.info("Ship " + id + " couldn't moored to berth ");
             }
-        } catch (ShipException e) {
+        } catch (ShipException | InterruptedException e) {
             logger.warn(e.toString());
         } finally {
             if (isLockedBerth) {
@@ -127,7 +126,7 @@ public class Ship extends Thread {
 
     }
 
-    private void executeAction(ShipAction action, Berth berth) throws ShipException {
+    private void executeAction(ShipAction action, Berth berth) throws ShipException, InterruptedException {
         Random random = new Random();
         int timeInPort = random.nextInt(10);
         long start = System.currentTimeMillis();

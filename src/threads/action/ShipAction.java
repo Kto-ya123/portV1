@@ -1,4 +1,4 @@
-package by.bsuir.threads.action;
+package threads.action;
 
 
 public enum ShipAction {
